@@ -1,0 +1,54 @@
+
+
+.posisi {
+    text-align: center;
+}
+
+.result-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.celcius-container {
+    text-align: center;
+}
+
+textarea {
+    resize: none;
+    background-color: #f8f8f8;
+    border: 2px solid #ccc;
+    border-radius: 4px ;
+    font-family: math;
+    font-size: 14px;
+}
+
+.f-container {
+    text-align: center;
+}
+
+.button {
+    height: 32px;
+    border: 0px;
+    border-radius: 4px;
+}
+
+.cadet-color {
+    background-color: cadetblue;
+    color: white;
+}
+
+.violet-color {
+    background-color: blueviolet;
+    color: white;
+}
+
+.medium-color {
+    background-color: mediumorchid;
+    color: white;
+}
+
+.subject-info {
+    font-size: 24px;
+    font-style: italic;
+    font-family: math;
+}
